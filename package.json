@@ -1,0 +1,10 @@
+{
+  "name": "creative-tech-portfolio-ssg",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "preinstall": "npx only-allow pnpm",
+    "build": "node scripts/build.mjs",
+    "serve": "npx serve dist"
+  }
+}
