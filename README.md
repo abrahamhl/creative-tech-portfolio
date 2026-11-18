@@ -6,6 +6,8 @@ Recruiter-facing portfolio for **Abraham Haddioui Lastras**, currently in the Ne
 
 I work where **AI-assisted product development, full-stack web, automation, systems thinking and visual design** overlap. My background combines Fine Arts and UX/UI with hands-on web delivery, Python/TypeScript workflows and production experience in the Netherlands.
 
+**18 Nov 2026 market scan:** [Spain/remote AI + industry positions, salary evidence and hiring constraints](docs/SPAIN_AI_INDUSTRY_JOB_MAP_2026-11-18.md). Verify on the original employer board before every application.
+
 ## Hiring tracks
 
 - **Applied AI / technical implementation:** AI Solutions Specialist, Implementation Consultant, Technical Product Specialist, B2B SaaS onboarding.
