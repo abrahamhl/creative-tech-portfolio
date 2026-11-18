@@ -24,5 +24,6 @@ jobs:
           test -s dist/cv/Abraham-Haddioui-Creative-Technologist.pdf
           grep -q 'AI + Industrial technology' dist/index.html
           grep -q 'SENDA RoadSafe' dist/industry-ai/index.html
-          grep -q 'ES/EN' dist/industry-ai/cv/index.html
+          grep -q 'English' dist/industry-ai/cv/index.html
+          grep -q 'Español' dist/industry-ai/cv/index.html
           grep -q 'Not field-validated' dist/industry-ai/cv/index.html
