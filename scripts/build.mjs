@@ -25,7 +25,17 @@ async function build() {
   const outputPath = path.join(distDir, 'index.html');
   await fs.writeFile(outputPath, html);
   
-  // If there were other assets in `src/assets`, we would copy them here.
+  // Preserve human-readable CV and specialist employer landing routes in the build output.
+  // No hidden download or personal data processing.
+  for (const route of ['cv', 'industry-ai']) {
+    await fs.cp(path.join(ROOT, route), path.join(distDir, route), { recursive: true, force: true });
+  }
+
+  // Fail explicitly if a recruiter-facing page is accidentally omitted.
+  for (const required of ['index.html', 'cv/index.html', 'industry-ai/index.html']) {
+    await fs.access(path.join(distDir, required));
+  }
+
   
   console.log('Build complete! Output written to dist/index.html');
 }
