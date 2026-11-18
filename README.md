@@ -1,8 +1,19 @@
 # Abraham Haddioui Lastras — Creative Technologist / AI Product Builder
 
-Recruiter-facing portfolio for **Abraham Haddioui Lastras**, based in Arnhem, Netherlands.
+Recruiter-facing portfolio for **Abraham Haddioui Lastras**, currently in the Netherlands and seeking **remote or hybrid roles based in Spain**, including international and Dutch employers with compliant cross-border arrangements.
+
+**New hiring focus (Nov 2026): [AI + Industrial Technology — ES/EN](industry-ai/)**. See also the verified [SENDA engineering case study](https://github.com/abrahamhl/civic-relay/blob/docs/recruiter-career-evidence-20261118/docs/career/RECRUITER_CASE_STUDY_ES_EN.md). This specialized track supplements the creative technology portfolio; it does not overclaim production AI engineering or certified emergency systems.
 
 I work where **AI-assisted product development, full-stack web, automation, systems thinking and visual design** overlap. My background combines Fine Arts and UX/UI with hands-on web delivery, Python/TypeScript workflows and production experience in the Netherlands.
+
+**18 Nov 2026 market scan:** [Spain/remote AI + industry positions, salary evidence and hiring constraints](docs/SPAIN_AI_INDUSTRY_JOB_MAP_2026-11-18.md). Verify on the original employer board before every application.
+
+## Hiring tracks
+
+- **Applied AI / technical implementation:** AI Solutions Specialist, Implementation Consultant, Technical Product Specialist, B2B SaaS onboarding.
+- **Industry + digital transformation:** Industrial Digitalization Specialist, technical project coordination, Industry 4.0 process design (without claiming PLC/SCADA experience).
+- **Web + customer experience:** WordPress / UX / product-facing frontend, automation and technical customer success.
+- **Creative technology:** retained as a complementary specialist track.
 
 ## Target roles
 
@@ -13,7 +24,13 @@ I work where **AI-assisted product development, full-stack web, automation, syst
 - Interactive / real-time / game-tech prototyping
 
 **Working languages:** Spanish (native), English (C1/professional), Dutch (basic / improving).  
-**Location:** Arnhem, Gelderland — open to hybrid Netherlands roles, remote Europe and relocation for the right full-time role.
+**Mobility:** relocating to Spain; remote from Spain or Spanish hybrid teams. Dutch-based employers are welcome if employment and social-security arrangements in Spain are compliant.
+
+## SENDA RoadSafe — software evidence (2026)
+
+- [PR #51, exact research revision](https://github.com/abrahamhl/civic-relay/commit/78bfd87e98d959296d3cada61dadeac47db4c596) + [RoadSafe CI](https://github.com/abrahamhl/civic-relay/actions/runs/44220990437): 840/840 core, 25/25 adversarial and 68/68 Chromium checks at the reviewed SHA.
+- Capabilities in research: accident-warning data provenance, event deduplication, moving-queue modelling, privacy/permissions, fail-closed route planning and browser UX.
+- **Limitations:** not tested between real vehicles, not authorized for public traffic alerts, not deployed as an emergency service. AI-assisted development and founder-led reviews are disclosed.
 
 ## Selected proof
 
